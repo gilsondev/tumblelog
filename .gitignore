@@ -1,0 +1,11 @@
+# Virtualenv
+bin
+include
+lib
+local
+
+# Cache
+*.py[co]
+*.swp
+*.bkp
+*.swp
